@@ -4,7 +4,7 @@ running app using
 `electron index.js`
 does NOT trigger any onload event for the leaflet component
 
-running using `budo app.js` (or other method using browserify) DOES trigger onload event
+running using `budo app.js` (or other method using browserify) triggers onload event (as expected)
 
 ---------
 
