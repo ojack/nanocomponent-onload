@@ -4,6 +4,6 @@ index.js and index.html are boilerplate for a basic electron app that loads and 
 
 running app using
 `electron index.js`
-does NOT trigger any onload event
+does NOT trigger any onload event for the leaflet component
 
 running using `budo app.js` (or other method using browserify) DOES trigger onload event
